@@ -1,0 +1,30 @@
+{
+    "manifest_version": 2,
+    "name": "Pirate Replacer",
+    "short_name": "PirateReplace",
+    "version": "4.0.0.1",
+    //"version_name": "001-release",
+
+    "description": "__MSG_extensionDescription__",
+    "default_locale": "en",
+
+    "developer": {
+        "name": "Hypothermic IT",
+        "url": "https://github.com/hypothermic"
+    },
+  
+    "icons": {
+        "48": "icons/ship-48.png",
+        "96": "icons/ship-96.png"
+    },
+  
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["scripts/replace.js"]
+        }
+    ],
+
+    "incognito": "spanning"
+    //"offline_enabled": "true",
+}

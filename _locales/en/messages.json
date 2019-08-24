@@ -1,0 +1,6 @@
+{
+    "extensionDescription": {
+        "message": "Replaces all links to The Pirate Bay with it's Tor Onion address.",
+        "description": "Description of the extension."
+    }
+}

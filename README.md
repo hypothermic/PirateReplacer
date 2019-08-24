@@ -4,15 +4,15 @@ Replaces all links to `thepiratebay.org` with their Tor Onion link (`uj3wazyk5u4
 
 ### Other domains
 
-Not only the `.org` domain gets replaced, but also the following:
+Not only the links with `.org` suffixes get replaced, but also the following:
 
-`thepiratebay.se`
-`thepiratebay.gs`
-`thepiratebay.la`
-`thepiratebay.vg`
-`thepiratebay.mn`
-`thepiratebay.gd`
-`thepiratebay.am`
+- `.se`
+- `.gs`
+- `.la`
+- `.vg`
+- `.mn`
+- `.gd`
+- `.am`
 
 ### License
 

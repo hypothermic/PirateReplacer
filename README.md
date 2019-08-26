@@ -2,6 +2,8 @@
 
 Replaces all links to `thepiratebay.org` with their Tor Onion link (`uj3wazyk5u4hnvtk.onion`).
 
+Download from [Mozilla's Add-ons website](https://addons.mozilla.org/en-US/firefox/addon/pirate-replacer/), get it on [releases](https://github.com/hypothermic/PirateReplacer/releases), or install from source.
+
 ### Other domains
 
 Not only the links with `.org` suffixes get replaced, but also the following:
